@@ -36,7 +36,7 @@ API details:\
 3)Get current weather from 	https://api.openweathermap.org/data/2.5/weather and forecast from https://api.openweathermap.org/data/2.5/forecast \
 4)Rate limits are: 60 calls per min and 1000000 calls per month\
 5)Units are: celcius, fahrenheit\
-6)Icons are fetched dynamically from OpenWeatherMap: https://openweathermap.org/img/wn/01d.png \
+6)Icons are fetched dynamically from OpenWeatherMap: https://openweathermap.org/img/wn/01d.png
 
 <img width="957" alt="AppSS1" src="https://github.com/user-attachments/assets/b10659de-6df6-4282-825c-9e051e3dd4d9" />
 <img width="959" alt="AppSS2" src="https://github.com/user-attachments/assets/4bcd2a47-7480-4b96-b987-9d02bd8a2676" />

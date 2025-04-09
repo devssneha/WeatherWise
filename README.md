@@ -1,12 +1,11 @@
-# React + Vite
+# WeatherWise
+Fully functional weather dashboard made using ReactJS and tailwind CSS\
+Uses the OpenWeatherMap API to fetch data that gets continuously refreshed\
+-displays the current weather and date
+-shows history of last 5 searched cities
+-has toggle mode for light/dark themes with different backgrounds
+-gives forecast for next 5 days as well
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="957" alt="AppSS1" src="https://github.com/user-attachments/assets/b10659de-6df6-4282-825c-9e051e3dd4d9" />
+<img width="959" alt="AppSS2" src="https://github.com/user-attachments/assets/4bcd2a47-7480-4b96-b987-9d02bd8a2676" />
